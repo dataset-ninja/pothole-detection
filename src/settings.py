@@ -23,8 +23,8 @@ HIDE_DATASET = True  # set False when 100% sure about repo quality
 LICENSE: License = License.DbCL_1_0()
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [
     Industry.Automotive(is_used=False),
-    Research.Engineering(is_used=False),
-    Industry.Safety(is_used=False)
+    Industry.Safety(is_used=False),
+    Domain.DamageDetection(is_used=False)
 ]
 CATEGORY: Category = Category.Safety(extra=Category.SelfDriving())
 
