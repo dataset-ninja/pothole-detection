@@ -1,7 +1,10 @@
 If you make use of the Pothole Detection data, please cite the following reference:
 
 ``` bibtex
-PASTE HERE CUSTOM CITATION FROM THE SOURCE URL
+@misc{make ml,
+  title={Potholes Dataset},
+  url={https://makeml.app/datasets/potholes},
+  journal={Make ML}}
 ```
 
 [Source](https://www.kaggle.com/datasets/andrewmvd/pothole-detection/)
