@@ -1,6 +1,6 @@
 Dataset **Pothole Detection** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/1domz7ti117w7ogkdigks/pothole-detection-DatasetNinja.tar?rlkey=jd31jhe9yvqd2igtax6v1lwe6&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI1NzBfUG90aG9sZSBEZXRlY3Rpb24vcG90aG9sZS1kZXRlY3Rpb24tRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiYVg3NFVvRkg5L21TOE94blFNYU5zQW03MVhibXNWRFAxOEpkUEFjbGxUdz0ifQ==)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
